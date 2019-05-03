@@ -9,21 +9,46 @@ import react.dom.h2
 
 fun RDOMBuilder<DIV>.handUi(ch:CardHand,playerName:String) {
     div {
-        h2 { +playerName }
-        div {
+        h2 { +playerName
             attrs.style = kotlinext.js.js {
-                padding = "20px"
-                width = "200px"
-                height="320px"
-                marginRight="20px"
-                marginLeft="20px"
-                marginBottom="20px"
-                background="white"
-                fontSize = "30"
+                alignment="center"
+                fontSize = "30px"
+            }}
+        div{
+            attrs.style = kotlinext.js.js{
+                display="flex"
             }
-            div { +ch.returnPretty()[0] }
-            div { +ch.returnPretty()[1] }
-            div { +ch.returnTotal().toString() }
+            div {
+                attrs.style = kotlinext.js.js {
+                    padding = "20px"
+                    width = "200px"
+                    height="320px"
+                    marginRight="20px"
+                    marginLeft="20px"
+                    marginBottom="20px"
+                    background="white"
+                    fontSize = "20px"
+                    color="black"
+                }
+                div { +ch.returnPretty()[0]}
+            }
+            div {
+                attrs.style = kotlinext.js.js {
+                    padding = "20px"
+                    width = "200px"
+                    height = "320px"
+                    marginRight = "20px"
+                    marginLeft = "20px"
+                    marginBottom = "20px"
+                    background = "white"
+                    fontSize = "20px"
+                    color = "black"
+                }
+                div { +ch.returnPretty()[1]}
+            }
+
         }
+        div {+"Total: "
+            +ch.returnTotal().toString() }
     }
 }

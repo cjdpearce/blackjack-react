@@ -16,8 +16,12 @@ fun main(args: Array<String>) {
     init()
     render(rootDiv) {
         div {
-            attrs.style = js {
-            background="green"
+                attrs.style = js {
+                background="green"
+                color="white"
+                fontSize = "25px"
+                    marginBottom="20px"
+                    padding="10px"
             }
             div {
                 h1 {
@@ -25,7 +29,6 @@ fun main(args: Array<String>) {
                 }
             }
             div {
-                attrs.style = js { display = "flex" }
                 handUi(playerHand,"Player")
                 handUi(dealerHand,"Dealer")
             }
