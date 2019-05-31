@@ -24,6 +24,7 @@ fun RDOMBuilder<DIV>.handUi(ch:CardHand,playerName:String) {
                 display = "flex"
             }
             for (card in ch.returnPretty()) {
+                console.log("playersHandSize: " + playerHand.cardHand.size)
                 div {
                     attrs.style = js {
                         display = "flex"
@@ -31,8 +32,8 @@ fun RDOMBuilder<DIV>.handUi(ch:CardHand,playerName:String) {
                     div {
                         attrs.style = js {
                             padding = "20px"
-                            width = "200px"
-                            height = "320px"
+                            width = "100px"
+                            height = "160px"
                             marginRight = "20px"
                             marginLeft = "20px"
                             marginBottom = "20px"
@@ -45,12 +46,17 @@ fun RDOMBuilder<DIV>.handUi(ch:CardHand,playerName:String) {
                         }
                     }
                 }
+                if(playerName.toLowerCase() == "dealer" && !playerHand.getEndgame()){
+                    break
+                }
             }
         }
+        if(playerName.toLowerCase() != "dealer" || playerHand.getEndgame()) {
             div {
                 +"Total: "
                 +ch.returnTotal().toString()
             }
+        }
 
     }
 }

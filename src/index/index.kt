@@ -1,17 +1,12 @@
 @file:Suppress("UnsafeCastFromDynamic")
 
 package com.cjdpearce.blackjack
-import kotlinx.html.DIV
-import kotlinx.html.style
 import react.dom.*
 import kotlin.browser.document
-import kotlinext.js.js
-import kotlinx.html.js.onClickFunction
 
-
-var cardDeck = com.cjdpearce.blackjack.CardDeck()
-var playerHand = com.cjdpearce.blackjack.CardHand()
-var dealerHand = com.cjdpearce.blackjack.CardHand()
+var cardDeck = CardDeck()
+var playerHand = CardHand()
+var dealerHand = CardHand()
 
 fun main(args: Array<String>) {
     val rootDiv = document.getElementById("root")

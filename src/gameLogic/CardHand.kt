@@ -3,6 +3,7 @@ package com.cjdpearce.blackjack
 class CardHand {
     var cardHand: MutableMap<String, String> = mutableMapOf()
     var cardDeck = CardDeck()
+    var endgame = false
 
     fun addCard(card: String) {
         cardHand[card] = cardDeck.getCardValue(card)
@@ -29,6 +30,14 @@ class CardHand {
             }
         }
         return prettyCards
+    }
+
+    fun setEndgame(playerStick: Boolean){
+        endgame=playerStick
+    }
+
+    fun getEndgame(): Boolean {
+        return endgame
     }
 
 }
