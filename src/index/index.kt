@@ -1,6 +1,7 @@
 @file:Suppress("UnsafeCastFromDynamic")
 
 package com.cjdpearce.blackjack
+import org.w3c.dom.Image
 import react.dom.*
 import kotlin.browser.document
 
