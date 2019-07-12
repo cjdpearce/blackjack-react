@@ -1,16 +1,16 @@
 @file:Suppress("UnsafeCastFromDynamic")
 package com.cjdpearce.blackjack
 
+import kotlinext.js.js
 import kotlinx.html.js.onClickFunction
 import kotlinx.html.style
 import react.RBuilder
-import kotlinext.js.js
 import react.dom.*
 import kotlin.browser.document
 
 
 fun RBuilder.GameController() {
-    var gamestate =""
+    var gamestate ="So, Would you like to Stick or Twist?"
         when {
             playerHand.returnTotal() == 21 -> gamestate="Congratulations you have a blackjack!"
             playerHand.returnTotal() > 21 -> gamestate="Sorry you've gone bust, better luck next time"
@@ -46,7 +46,22 @@ fun RBuilder.GameController() {
 
             }
 
-            if(gamestate=="") {
+            if(gamestate == "So, Would you like to Stick or Twist?") {
+                button {
+                    +"Stick"
+                    attrs.onClickFunction = {
+                        playerHand.setEndgame(true)
+                        while (dealerHand.returnTotal() < 17) {
+                            dealerHand.addCard(cardDeck.getCard())
+                        }
+                        renderStuff()
+                    }
+                    attrs.style=js{
+                        width = "160px"
+                        height = "40px"
+                        margin = "20px"
+                    }
+                }
                 button {
                     +"Twist"
                     attrs.onClickFunction = {
@@ -62,15 +77,10 @@ fun RBuilder.GameController() {
                         }
                         renderStuff()
                     }
-                }
-                button {
-                    +"Stick"
-                    attrs.onClickFunction = {
-                        playerHand.setEndgame(true)
-                        while (dealerHand.returnTotal() < 17) {
-                            dealerHand.addCard(cardDeck.getCard())
-                        }
-                        renderStuff()
+                    attrs.style=js{
+                        width = "160px"
+                        height = "40px"
+                        margin = "20px"
                     }
                 }
             }else{
@@ -79,7 +89,12 @@ fun RBuilder.GameController() {
                     attrs.onClickFunction = {
                        js("location.reload();")
                     }
+                    attrs.style=js{
+                        width = "160px"
+                        height = "40px"
+                    }
                 }
+
             }
 
     }

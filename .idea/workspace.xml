@@ -3,8 +3,77 @@
   <component name="ChangeListManager">
     <list default="true" id="0ef56f06-2e37-4f03-8844-2a1404afafde" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardBack_blue1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardBack_blue1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardBack_blue2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardBack_blue2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardBack_blue3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardBack_blue3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardBack_blue4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardBack_blue4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardBack_blue5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardBack_blue5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardBack_green1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardBack_green1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardBack_green2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardBack_green2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardBack_green3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardBack_green3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardBack_green4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardBack_green4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardBack_green5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardBack_green5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardBack_red1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardBack_red1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardBack_red2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardBack_red2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardBack_red3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardBack_red3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardBack_red4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardBack_red4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardBack_red5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardBack_red5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardClubs10.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardClubs10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardClubs2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardClubs2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardClubs3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardClubs3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardClubs4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardClubs4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardClubs5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardClubs5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardClubs6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardClubs6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardClubs7.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardClubs7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardClubs8.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardClubs8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardClubs9.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardClubs9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardClubsA.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardClubsA.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardClubsJ.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardClubsJ.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardClubsK.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardClubsK.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardClubsQ.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardClubsQ.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardDiamonds10.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardDiamonds10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardDiamonds2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardDiamonds2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardDiamonds3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardDiamonds3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardDiamonds4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardDiamonds4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardDiamonds5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardDiamonds5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardDiamonds6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardDiamonds6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardDiamonds7.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardDiamonds7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardDiamonds8.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardDiamonds8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardDiamonds9.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardDiamonds9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardDiamondsA.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardDiamondsA.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardDiamondsJ.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardDiamondsJ.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardDiamondsK.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardDiamondsK.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardDiamondsQ.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardDiamondsQ.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardHearts10.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardHearts10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardHearts2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardHearts2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardHearts3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardHearts3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardHearts4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardHearts4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardHearts5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardHearts5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardHearts6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardHearts6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardHearts7.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardHearts7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardHearts8.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardHearts8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardHearts9.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardHearts9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardHeartsA.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardHeartsA.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardHeartsJ.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardHeartsJ.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardHeartsK.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardHeartsK.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardHeartsQ.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardHeartsQ.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardJoker.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardJoker.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardSpades10.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardSpades10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardSpades2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardSpades2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardSpades3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardSpades3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardSpades4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardSpades4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardSpades5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardSpades5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardSpades6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardSpades6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardSpades7.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardSpades7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardSpades8.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardSpades8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardSpades9.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardSpades9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardSpadesA.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardSpadesA.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardSpadesJ.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardSpadesJ.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardSpadesK.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardSpadesK.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cards/cardSpadesQ.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cards/cardSpadesQ.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gameUi/GameController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/gameUi/GameController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gameUi/HandUi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/gameUi/HandUi.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index/index.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/index/index.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,26 +87,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index/index.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            <state relative-caret-position="304">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#73#127#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/libraries/kotlinx_html_js.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/gameUi/HandUi.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="51" column="44" lean-forward="true" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gameUi/GameController.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="38" column="57" lean-forward="true" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="57" />
+            <state relative-caret-position="520">
+              <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+              <folding>
+                <element signature="e#74#262#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -45,17 +116,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="38">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/manifest.json">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gameUi/GameController.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="570">
+              <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+              <folding>
+                <element signature="e#73#232#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gameLogic/CardDeck.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -69,6 +152,12 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>stringi</find>
+      <find>querystringify</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -79,17 +168,21 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/gameUi/gameView.kt" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/gameUi/handUi.kt" />
         <option value="$PROJECT_DIR$/src/gameUi/App.kt" />
+        <option value="$PROJECT_DIR$/src/gameLogic/CardHand.kt" />
+        <option value="$PROJECT_DIR$/src/gameUi/Endgame.kt" />
+        <option value="$PROJECT_DIR$/src/gameLogic/CardDeck.kt" />
         <option value="$PROJECT_DIR$/src/index/index.kt" />
-        <option value="$PROJECT_DIR$/src/gameUi/GameController.kt" />
         <option value="$PROJECT_DIR$/public/manifest.json" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/gameUi/GameController.kt" />
+        <option value="$PROJECT_DIR$/src/gameUi/HandUi.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1920" />
     <option name="height" value="1200" />
   </component>
@@ -100,13 +193,23 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="blackjack-react" type="b2602c69:ProjectViewProjectNode" />
               <item name="blackjack-react" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackjack-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackjack-react" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blackjack-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blackjack-react" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="libraries" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blackjack-react" type="b2602c69:ProjectViewProjectNode" />
@@ -118,33 +221,24 @@
               <item name="blackjack-react" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="blackjack-react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackjack-react" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gameLogic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackjack-react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackjack-react" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gameUi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackjack-react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackjack-react" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="index" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -172,7 +266,7 @@
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23658799" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2864807" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -185,8 +279,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946353" weight="0.32912534" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005365" side_tool="true" weight="0.32912534" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49892703" weight="0.33633906" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50107294" side_tool="true" weight="0.33633906" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32912534" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -227,58 +322,118 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameUi/App.kt" />
+    <entry file="file://$PROJECT_DIR$/public/favicon.ico" />
+    <entry file="file://$PROJECT_DIR$/src/gameUi/Endgame.kt" />
+    <entry file="file://$PROJECT_DIR$/images/playingCards.png" />
+    <entry file="file://$PROJECT_DIR$/src/Cards/cardBack_blue1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cards/cardDiamonds3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@jetbrains/kotlin-react-dom/build/classes/main/kotlin-react-dom/react/dom/dom.kjsm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="143" column="33" selection-start-line="143" selection-start-column="33" selection-end-line="143" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cards/cardClubs2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/gameLogic/CardHand.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        <state relative-caret-position="285">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gameLogic/CardDeck.kt">
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        <state relative-caret-position="213">
+          <caret line="6247" column="23" selection-start-line="6247" selection-start-column="9" selection-end-line="6247" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gameUi/App.kt">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gameUi/HandUi.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="51" column="44" lean-forward="true" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="44" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index/index.kt">
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blackjack-react.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cards/cardDiamonds4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cards/cardClubs3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        <state relative-caret-position="114">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/gameUi/GameController.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="38" column="57" lean-forward="true" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="57" />
+        <state relative-caret-position="570">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="e#73#232#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/src/gameLogic/CardDeck.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="38">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/manifest.json">
+    <entry file="file://$PROJECT_DIR$/src/index/index.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#73#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/kotlinx-html/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/kotlinx_html_js.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameUi/HandUi.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+          <folding>
+            <element signature="e#74#262#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

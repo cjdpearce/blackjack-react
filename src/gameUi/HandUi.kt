@@ -2,13 +2,17 @@
 
 package com.cjdpearce.blackjack
 
+import kotlinext.js.js
 import kotlinx.html.DIV
 import kotlinx.html.style
+import org.w3c.dom.Image
 import react.dom.RDOMBuilder
-import react.dom.b
 import react.dom.div
 import react.dom.h2
-import kotlinext.js.js
+import react.dom.img
+
+@JsModule("src/Cards/cardClubs2.png")
+external val logo: dynamic
 
 fun RDOMBuilder<DIV>.handUi(ch:CardHand,playerName:String) {
     div {
@@ -32,17 +36,13 @@ fun RDOMBuilder<DIV>.handUi(ch:CardHand,playerName:String) {
                     div {
                         attrs.style = js {
                             padding = "20px"
-                            width = "100px"
-                            height = "160px"
-                            marginRight = "20px"
-                            marginLeft = "20px"
-                            marginBottom = "20px"
-                            background = "white"
-                            fontSize = "20px"
-                            color = "black"
                         }
                         div {
-                            +card
+                            var image = Image()
+                            image.src= logo
+                            img(src = image.src){}
+
+
                         }
                     }
                 }

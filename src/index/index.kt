@@ -1,9 +1,9 @@
 @file:Suppress("UnsafeCastFromDynamic")
 
 package com.cjdpearce.blackjack
-import org.w3c.dom.Image
-import react.dom.*
+import react.dom.render
 import kotlin.browser.document
+
 
 var cardDeck = CardDeck()
 var playerHand = CardHand()
@@ -14,6 +14,7 @@ fun main(args: Array<String>) {
     init()
     render(rootDiv) {
         GameController()
+
     }
 
 }
